@@ -121,9 +121,9 @@
                                 <?php if ($pindah == '') {?>
                                 <select class="custom-select" name="RoomType">
                                     <option selected>Building..</option>
-                                    <option>Peta Park</option>
-                                    <option>Bandung Convention Center</option>
-                                    <option>Balai Sartika</option>
+                                    <option>Bandung Techno Park</option>
+                                    <option>Gedung serba guna</option>
+                                    <option>Gedung Keong</option>
                                 </select>
                                 <?php  }else{ ?>
                                 <input type="text" class="form-control" readonly="" name="RoomType"
