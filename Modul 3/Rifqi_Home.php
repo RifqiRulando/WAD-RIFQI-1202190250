@@ -1,40 +1,59 @@
-<!DOCTYPE html>
-<html>
+<!doctype html>
+<html lang="en">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container-fluid">
+          <a class="navbar-brand" href="#">
+            <img src="img/logo-ead.png" width="100px" alt="logo">
+          </a>
 
-<head>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>        
+            <form class="d-flex">
+              <button class="btn btn-outline-success" button>
+                    <a class="nav-link" type="Tambah Buku" href="Rifqi_tambahbuku.php" style= "color: white" >Tambah Buku</a>
+            </form>
+          </div>
+        </div>
+      </nav>
+  <head>
+  <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+   
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" 
+    integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
     <title>Home</title>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
-        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-        <link rel="stylesheet" type="text/css" href=".asset/home.css">
 </head>
 
-<body>
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
-        <div class="container">
-            <a class="navbar-brand" href="#"></a>
-            <img src="img/logo-ead.png" width="150">
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup"
-                aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="d-grid gap-2 d-md-flex justify-content-md-end">
-                <button class="btn btn-primary me-md-2" type="button">Tambah Buku</button>
-              </div>
-                </div>
-            </div>
-        </div>
-    </nav>
+   
 
+<section id="footer">
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
 
+  <div class="container-fluid">
+    <div class="container text-center" >
+        <h2>Belum Ada Buku</h2>
+		<hr style ="color: blue"  width="1250px" height="5000px">
+        <h5>Silahkan Menambah Buku</h5>
 
-<!--Footer-->
-        <!-- Copyright -->
-        <div class="text-center text-white p-3" style="background-color: rgba(0, 0, 0, 0.2);">
-            <img src="img/logo-ead.png" width="150"><br>
-            <b>Perpustakaan EAD </b><br>
-            Dibuat oleh:
-            <a class="text-white">Rifqi Rulando_1202190250</a>
-        </div>
-        <!-- Copyright -->
-        </footer>
-</body>
+        <footer class="bg-light text-center text-lg-start" >
+            <h5>
+                <br><br><br><br><br>
+                <div class="container text-center" >
+                <img src="https://drive.google.com/uc?export=view&id=1hqBNDU1Tx1RKd8wzC1bmnhwBr-7YsK23" width="250px" alt="logo">
+                <br><br>
+
+                <h4><b>Perpustakaan WAD</b></h4>
+                <h6>CREATED BY RIFQI_1202190250</h6>
+
+                <br><br><br><br><br>
+                </h5> 
+    
+  </body>
+</html>

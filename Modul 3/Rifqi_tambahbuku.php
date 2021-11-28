@@ -62,15 +62,17 @@
 			<input type="submit" name="" value="Simpan" class="btn btn-primary">
 		</form>
     </div>
-    <!--Footer-->
-        <!-- Copyright -->
-        <div class="text-center text-white p-3" style="background-color: rgba(0, 0, 0, 0.2);">
-            <img src="img/logo-ead.png" width="150"><br>
-            <b>Perpustakaan EAD </b><br>
-            Dibuat oleh:
-            <a class="text-white">Rifqi Rulando_1202190250</a>
-        </div>
-        <!-- Copyright -->
-        </footer>
+    <footer class="bg-light text-center text-lg-start" >
+            <h5>
+                <br><br><br><br><br>
+                <div class="container text-center" >
+                <img src="https://drive.google.com/uc?export=view&id=1hqBNDU1Tx1RKd8wzC1bmnhwBr-7YsK23" width="250px" alt="logo">
+                <br><br>
+
+                <h4><b>Perpustakaan WAD</b></h4>
+                <h6>CREATED BY RIFQI_1202190250</h6>
+
+                <br><br><br><br><br>
+                </h5> 
 </body>
 </html>
